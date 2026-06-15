@@ -36,13 +36,12 @@ The purpose of this assignment is to demonstrate practical knowledge of:
   - 192.168.2.0/24
   - 192.168.3.0/24
 - Point-to-Point Links (/30 subnets):
-  - 10.0.12.0/30
-  - 10.0.13.0/30
-  - 10.0.23.0/30
+  - 10.0.0.0/30
+  - 11.0.0.0/30
+  - 12.0.0.0/30
 
 ## 📁 Repository Contents
 - Packet Tracer files (.pkt)
-- Configuration files (.txt) for each router and task
 - Screenshots of routing tables and ping results
 - Assignment report (PDF)
 
